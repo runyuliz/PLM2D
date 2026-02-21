@@ -26,7 +26,7 @@ are grouped into three kinds of components:
 ## Getting Started
 - Model Learning: Run python `plmmd.py`, `simulation_slide.R` and `benchmarks.py`.
 - Performance Assesment: Run python `simulation_plots.py`
-- Monitoring: Run python monitoring.py.
+- Monitoring: Run `python monitoring.py`.
 
 ## References
 - Gaynanova, I., & Li, G. (2019). "Structural learning and integrative decomposition of multi‐view data." *Biometrics*, 75(4), 1121-1132.
