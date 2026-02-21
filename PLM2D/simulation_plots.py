@@ -406,11 +406,9 @@ ax.set_xticklabels([])
 
 box_positions = []
 for line in ax.lines:
-    # Matplotlib mean 标记是 marker 类型 Line2D
-    if line.get_marker() == 'o':  # mean marker 是 "o"
+    if line.get_marker() == 'o':
         xdata = line.get_xdata()
         ydata = line.get_ydata()
-        # 每个箱体可能有一个或多个 marker
         for x, y in zip(xdata, ydata):
             box_positions.append(x)
 
