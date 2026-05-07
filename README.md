@@ -1,6 +1,7 @@
 # PLM2D: Partially Linked Multi-Matrix Decomposition
-This is the official implementation of the PLM2D method as described in the paper:
-- "Common Components or Individual Ones or Between? A Partially Linked Multi-Matrix Decomposition for Joint Modeling of Multivariate Heterogeneous Profile Data", Runyu Mao, Kai Wang*, Chen Zhang, Fugee Tsung.
+This repository contains the official implementation of the PLM2D method proposed in:
+
+- Mao, R., Wang, K.*, Zhang, C., & Tsung, F. (2026). Common components or individual ones or between? A partially linked multi-matrix decomposition for joint modeling of multivariate heterogeneous profile data. IISE Transactions, 1–20. https://doi.org/10.1080/24725854.2026.2642988
 
 ## Overview
 To greatly reduce the high dimension and adequately describe the complicated correlation of multivariate heterogeneous profile data, a joint matrix decomposition is applied to the high-dimensional observations of
